@@ -46,5 +46,11 @@
             <version>3.2.5</version>
         </dependency>
 
+        <dependency>
+            <groupId>org.apache.maven.surefire</groupId>
+            <artifactId>surefire</artifactId>
+            <version>3.2.5</version>
+        </dependency>
+
     </dependencies>
 </project>
